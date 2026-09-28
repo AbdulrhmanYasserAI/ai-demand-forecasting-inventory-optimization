@@ -121,9 +121,9 @@ The included synthetic demo produces the following holdout results on the final 
 | Model | MAE | RMSE | WAPE |
 |---|---:|---:|---:|
 | Seasonal Naive (13-week) | 26.71 | 33.70 | 8.17% |
-| HistGradientBoostingRegressor | 23.56 | 28.69 | 7.20% |
+| HistGradientBoostingRegressor | 22.82 | 27.68 | 6.98%|
 
-On the demo data, the machine-learning model reduces WAPE by approximately **11.8% versus the seasonal baseline**. This is a synthetic demonstration result, not a Walmart performance claim.
+On the demo data, the machine-learning model reduces WAPE by approximately **14.5% versus the seasonal baseline**. This is a synthetic demonstration result, not a Walmart performance claim.
 
 ## Business Interpretation
 
